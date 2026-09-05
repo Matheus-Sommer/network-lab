@@ -27,3 +27,5 @@ Laboratório desenvolvido durante o curso de Cibersegurança.
 
 ## Topologia
 
+<img width="2001" height="1853" alt="topologia" src="https://github.com/user-attachments/assets/96c0974c-1755-4d23-ae43-b97c141a5114" />
+
